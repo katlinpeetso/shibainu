@@ -1,0 +1,55 @@
+
+body {
+  background-color:#FDF1C4;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 5%;
+  
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  color: rgba(237, 177, 0, 0.844);
+  text-align: center;
+}
+p {
+  font-size: medium;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: left;
+}
+img {
+  border: 3px solid #6a3f02;
+}
+
+.shiba {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  margin-left: auto;
+  margin-right: 5%;
+}
+
+.shiba a {
+  text-align: center;
+}
+
+p {
+  font-size: medium;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid rgb(90, 64, 4);
+  
+}
